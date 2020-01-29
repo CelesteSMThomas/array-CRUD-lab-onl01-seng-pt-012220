@@ -22,11 +22,11 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  remove_element_from_start_of_array.shift
+  remove_element_from_start_of_array.shift(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  retrieve_element_from_index.index(1)
+  retrieve_element_from_index.index(index_number)
 end
 
 def retrieve_first_element_from_array(array)
