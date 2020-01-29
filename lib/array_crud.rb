@@ -21,19 +21,19 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  numbers_array.shift
+  create_an_array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  numbers_array.index(1)
+  create_an_array.index(1)
 end
 
 def retrieve_first_element_from_array(array)
-numbers_array.first
+create_an_array.first
   
 end
 
 def retrieve_last_element_from_array(array)
-  numbers_array.last
+  create_an_array.last
   
 end
